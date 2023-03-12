@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azayakaWen
-- 👀 I’m a student at IT-Högskolan in Gothenburg
-- 🌱 I’m currently learning everything about javascript
+- 👋 Hello my friend!
+- 👀 I'm Emelie and I'm a newly graduated javascript developer
+- 🌱 I’m currently lookng for new job opportunities
 - 📫 How to reach me emelie.wensberg@hotmail.com
 
 <!---
