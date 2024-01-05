@@ -1,6 +1,6 @@
 - 👋 Hello my friend!
 - 👀 I'm Emelie and I'm a newly graduated javascript developer
-- 🌱 I’m currently lookng for new job opportunities
+- 🌱 I’m currently working at Västra Götalandsregionen on the department for infrastructure and cyber security.
 - 📫 How to reach me emelie.wensberg@hotmail.com or [LinkedIn](https://www.linkedin.com/in/emelie-wensberg-12b32093/)
 
 <!---
